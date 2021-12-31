@@ -6,3 +6,4 @@ Implementation of A* algorithm in Python with tkinter canvas
 
 ### Still needs some improvements for speed and visualization... Feel free to send pull request :)
 "# FindPath" 
+"# FindPath" 
