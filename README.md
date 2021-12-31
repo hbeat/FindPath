@@ -1,9 +1,2 @@
-# A* Algorithm Visualized
-
-Implementation of A* algorithm in Python with tkinter canvas
-
-![](./demo.gif)
-
-### Still needs some improvements for speed and visualization... Feel free to send pull request :)
-"# FindPath" 
-"# FindPath" 
+# FindPath
+Is my assembly pair project using Raspberry Pi to capture 6x6 square maze then, process image using Processing to transform image into numeric data and use A* algorithm to solves and display as GUI in Python( Tkinter).
